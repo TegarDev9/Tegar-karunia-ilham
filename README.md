@@ -27,4 +27,3 @@
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TegarDev9 &theme=radical)
